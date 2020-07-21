@@ -1,6 +1,6 @@
 # Java Algoritma Örnekleri
 
-Java dilinde temel algoritmik sorular, problemler, matematiksel çözümler, diziler, metotlar, rekürsif metotlar ve daha birçok jaca uygulamasının örneklerini barındırır<br>
+Java dilinde temel algoritmik sorular, problemler, matematiksel çözümler, diziler, metotlar, rekürsif metotlar ve daha birçok java uygulamasının örneklerini barındırır<br>
 
 ![Java Algoritma Örnekleri](https://i.resimyukle.xyz/9NGCzA.png)
 
