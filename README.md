@@ -10,3 +10,7 @@ Java dilinde temel algoritmik sorular, problemler, matematiksel çözümler, diz
 **2)** [Fibonacci Sayı Dizisi Hesaplama Recursif](https://github.com/saricayemre/JavaRecursiveExample/blob/master/fibonacciRecursive.java) <br>
 **3)** [Klavyeden girilen harfin büyük küçük olduğunu bulan ve diziye yazan program](https://github.com/saricayemre/JavaAlgoritmaOrnekleri/blob/master/buyuk_mu_kucuk_mu.java) <br>
 **4)** [Belirlenen değere göre rastgele parola üreten program](https://github.com/saricayemre/JavaAlgoritmaOrnekleri/blob/master/parolaUret.java) <br>
+**5)** [Thread Kullanarak Ekrana Yazı Yazma](https://github.com/saricayemre/JavaAlgoritmaOrnekleri/blob/master/dosya.java) <br>
+**6)** [Klavyeden Girilen Kelimeleri 'A|a' ile başlıyorsa dosyaya yazma](https://github.com/saricayemre/JavaAlgoritmaOrnekleri/blob/master/dosya.java) <br>
+
+
